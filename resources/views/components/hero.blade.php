@@ -110,7 +110,7 @@
                                 <div class="w-2.5 h-2.5 rounded-full bg-emerald-400 animate-ping"></div>
                                 <span class="text-xs font-medium text-slate-200">Accepting Appointments Today</span>
                             </div>
-                            <span class="text-[11px] font-semibold text-amber-400">Raeford, NC</span>
+                            <span class="text-[11px] font-semibold text-amber-400">Laguna, PH</span>
                         </div>
                     </div>
 

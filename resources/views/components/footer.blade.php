@@ -26,7 +26,7 @@
                         <span class="text-lg font-bold tracking-tight text-white group-hover:text-amber-400 transition-colors">
                             JAMES <span class="text-amber-400 font-normal italic">The Barber</span>
                         </span>
-                        <span class="text-[10px] tracking-widest uppercase text-slate-400 font-medium">EST. 2020 • RAEFORD, NC</span>
+                        <span class="text-[10px] tracking-widest uppercase text-slate-400 font-medium">EST. 2020 • LAGUNA, PH</span>
                     </div>
                 </a>
 

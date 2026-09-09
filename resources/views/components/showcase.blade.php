@@ -42,7 +42,7 @@
                             <span class="text-xs font-mono uppercase tracking-widest text-amber-400">Atmosphere</span>
                             <h3 class="text-lg font-bold text-white">Classic Heritage & Modern Standards</h3>
                         </div>
-                        <span class="hidden sm:inline-flex px-3 py-1 text-xs rounded-full glass-panel text-slate-300">Raeford, NC</span>
+                        <span class="hidden sm:inline-flex px-3 py-1 text-xs rounded-full glass-panel text-slate-300">Laguna, PH</span>
                     </div>
                 </div>
 

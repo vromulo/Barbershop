@@ -3,9 +3,9 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <meta name="description" content="James The Barber - Bespoke haircuts, precision skin fades, and traditional hot-towel razor shaves in Raeford, NC. Est. 2020.">
+        <meta name="description" content="James The Barber - Bespoke haircuts, precision skin fades, and traditional hot-towel razor shaves in Laguna, PH. Est. 2020.">
 
-        <title>James The Barber | Master Craftsman • Raeford, NC</title>
+        <title>James The Barber</title>
 
         <!-- Google Fonts: Inter & Plus Jakarta Sans -->
         <link rel="preconnect" href="https://fonts.bunny.net">
