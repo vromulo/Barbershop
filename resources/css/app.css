@@ -4,6 +4,33 @@
 @source '../../storage/framework/views/*.php';
 
 @theme {
-    --font-sans: 'Instrument Sans', ui-sans-serif, system-ui, sans-serif, 'Apple Color Emoji', 'Segoe UI Emoji',
-        'Segoe UI Symbol', 'Noto Color Emoji';
+   /* Brand Colors */
+    --color-brand-dark: #0a0d14;
+    --color-brand-surface: #111622;
+    --color-brand-gold: #f59e0b;
+    --color-brand-gold-hover: #d97706;
+
+    /* Custom Glass Shadows & Glows */
+    --shadow-glass-sm: 0 4px 20px 0 rgba(0, 0, 0, 0.25);
+    --shadow-glass-lg: 0 12px 40px 0 rgba(0, 0, 0, 0.45);
+    --shadow-gold-glow: 0 0 25px -5px rgba(245, 158, 11, 0.3);
+}
+
+/* Glassmorphism utility helpers */
+@layer utilities {
+    .glass-panel {
+        background-color: rgba(255, 255, 255, 0.04);
+        backdrop-filter: blur(16px);
+        -webkit-backdrop-filter: blur(16px);
+        border: 1px solid rgba(255, 255, 255, 0.08);
+    }
+
+    .glass-panel-hover {
+        transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+    .glass-panel-hover:hover {
+        background-color: rgba(255, 255, 255, 0.08);
+        border-color: rgba(255, 255, 255, 0.18);
+        transform: translateY(-2px);
+    }
 }
