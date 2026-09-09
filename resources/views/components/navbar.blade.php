@@ -6,7 +6,7 @@
 <header class="sticky top-0 z-50 w-full px-4 sm:px-6 lg:px-8 pt-4 transition-all duration-300">
     <div 
         x-data="{ mobileMenuOpen: false }" 
-        class="max-w-7xl mx-auto rounded-2xl glass-panel bg-brand-dark/70 backdrop-blur-xl border border-white/10 shadow-glass-sm px-4 sm:px-6 py-3 transition-all"
+        class="relative max-w-7xl mx-auto rounded-2xl glass-panel bg-brand-dark/70 backdrop-blur-xl border border-white/10 shadow-glass-sm px-4 sm:px-6 py-3 transition-all"
     >
         <div class="flex items-center justify-between">
             <!-- Brand Logo & Name -->

@@ -59,9 +59,9 @@
                     <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 sm:gap-8">
                         <div class="reveal-on-scroll">
                             <x-feature-card
-                                title="Signature Precision Cut"
-                                description="Consultation, tailored scissor and clipper work, razor neck cleanup, and a light styling finish suited to your face profile."
-                                duration="35 mins"
+                                title="Modern/Classic Haircut"
+                                description="Precision shears and clipper tailoring tailored to your head shape, finished with a clean razor neck cleanup and light styling."
+                                duration="1 hour"
                                 badge="Popular"
                             >
                                 <x-slot:iconSlot>
@@ -74,9 +74,9 @@
 
                         <div class="reveal-on-scroll delay-100">
                             <x-feature-card
-                                title="Seamless Skin Fades"
-                                description="Ultra-clean taper, drop, low, mid, or high bald fades blended with absolute symmetry and razor-sharp edge detailing."
-                                duration="40 mins"
+                                title="Haircut and Beards"
+                                description="Complete grooming overhaul featuring a tailored fade or classic cut, sharp beard shaping, and razor cheek definition."
+                                duration="1.5 hour"
                             >
                                 <x-slot:iconSlot>
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -88,13 +88,13 @@
 
                         <div class="reveal-on-scroll delay-200">
                             <x-feature-card
-                                title="Beard Sculpt & Shape"
-                                description="Detailed length reduction, symmetry lining, straight razor cheek definition, and warm organic beard oil treatment."
-                                duration="25 mins"
+                                title="Home Service"
+                                description="The full master barbershop setup brought directly to your home or office for ultimate convenience and privacy."
+                                duration="1.5 hour"
                             >
                                 <x-slot:iconSlot>
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
                                     </svg>
                                 </x-slot:iconSlot>
                             </x-feature-card>
@@ -102,10 +102,9 @@
 
                         <div class="reveal-on-scroll">
                             <x-feature-card
-                                title="Hot Towel Razor Shave"
-                                description="Classic barbershop ritual featuring pre-shave essential oils, steaming hot towels, rich lather, and a surgical-grade razor pass."
-                                duration="30 mins"
-                                badge="Classic"
+                                title="Executive Cut & Towel Therapy"
+                                description="Precision haircut and deep hair wash paired with alternating hot and cold steam towels to refresh and soothe the scalp."
+                                duration="1.5 hour"
                             >
                                 <x-slot:iconSlot>
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -117,33 +116,17 @@
 
                         <div class="reveal-on-scroll delay-100">
                             <x-feature-card
-                                title="Crisp Lineup & Enhancements"
-                                description="Fast refresh around temple points, neck hairline, and beard border with optional semi-permanent hair enhancements."
-                                duration="20 mins"
+                                title="Perm with Haircut"
+                                description="Custom hair perm for lasting texture and wave volume, paired with a precision cut designed to complement your new pattern."
+                                duration="2 hours"
                             >
                                 <x-slot:iconSlot>
                                     <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M9 12l2 2 4-4m5.618-4.016A11.955 11.955 0 0112 2.944a11.955 11.955 0 01-8.618 3.04A12.02 12.02 0 003 9c0 5.591 3.824 10.29 9 11.622 5.176-1.332 9-6.03 9-11.622 0-1.042-.133-2.052-.382-3.016z"/>
+                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M5 3v4M3 5h4M6 17v4m-2-2h4m5-16l2.286 6.857L21 12l-5.714 2.143L13 21l-2.286-6.857L5 12l5.714-2.143L13 3z"/>
                                     </svg>
                                 </x-slot:iconSlot>
                             </x-feature-card>
                         </div>
-
-                        <div class="reveal-on-scroll delay-200">
-                            <x-feature-card
-                                title="Young Gentlemen & Seniors"
-                                description="Patient, gentle, and sharp cuts for boys (12 and under) and distinguished gentlemen looking for dependable, polite service."
-                                duration="30 mins"
-                            >
-                                <x-slot:iconSlot>
-                                    <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M12 4.354a4 4 0 110 5.292M15 21H3v-1a6 6 0 0112 0v1zm0 0h6v-1a6 6 0 00-9-5.197M13 7a4 4 0 11-8 0 4 4 0 018 0z"/>
-                                    </svg>
-                                </x-slot:iconSlot>
-                            </x-feature-card>
-                        </div>
-                    </div>
-
                 </div>
             </section>
 
@@ -173,51 +156,49 @@
                     <div class="grid grid-cols-1 lg:grid-cols-3 gap-8 items-stretch pt-4">
                         <div class="reveal-on-scroll">
                             <x-pricing-card
-                                name="Classic Haircut"
-                                price="$35"
-                                period="session"
-                                description="Traditional precision cut for everyday style and professional maintenance."
-                                :features="[
-                                    'Custom consultation & cut',
-                                    'Straight razor neck clean-up',
-                                    'Hot steam towel refresh',
-                                    'Styling with artisan pomade'
-                                ]"
-                                cta-text="Book Classic Cut"
-                            />
-                        </div>
-
-                        <div class="reveal-on-scroll delay-100">
-                            <x-pricing-card
-                                name="Cut + Beard Sculpt"
-                                price="$55"
+                                name="Haircut and Beard"
+                                price="₱300"
                                 period="session"
                                 description="Complete head-to-beard transformation with precision taper and razor line work."
-                                :popular="true"
-                                badge="Most Popular"
                                 :features="[
                                     'Signature fade or scissor haircut',
                                     'Complete beard sculpt & trim',
-                                    'Straight razor cheek and neck lines',
                                     'Hot towel steam & facial essential oil',
-                                    'Finishing balm & styling clay'
+                                    'Styling with artisan pomade'
                                 ]"
                                 cta-text="Book Cut & Beard"
                             />
                         </div>
 
+                        <div class="reveal-on-scroll delay-100">
+                            <x-pricing-card
+                                name="Modern/Classic Haircut"
+                                price="₱200"
+                                period="session"
+                                description="Traditional precision cut for everyday style and professional maintenance."
+                                :popular="true"
+                                badge="Most Popular"
+                                :features="[
+                                    'Custom consultation & cut',
+                                    'Straight razor neck clean-up',
+                                    'Straight razor cheek and neck lines',
+                                    'Finishing balm & styling clay'
+                                ]"
+                                cta-text="Book Classic Cut"
+                            />
+                        </div>
+
                         <div class="reveal-on-scroll delay-200">
                             <x-pricing-card
-                                name="The Royal Treatment"
-                                price="$75"
+                                name="Executive Cut & Towel Therapy"
+                                price="₱350"
                                 period="session"
-                                description="The ultimate luxury grooming experience with straight razor shave and facial care."
+                                description="Precision cut, invigorating wash, and contrast steam towels for ultimate renewal."
                                 :features="[
                                     'Master haircut of your choice',
                                     'Traditional hot-towel straight razor shave',
-                                    'Exfoliating mini-facial cleansing',
+                                    'Deep-cleansing scalp shampoo and revitalizing wash',
                                     'Invigorating scalp massage',
-                                    'Premium beard treatment & splash'
                                 ]"
                                 cta-text="Book Royal VIP"
                             />
@@ -248,7 +229,7 @@
                             <x-testimonial-card
                                 name="Marcus Vance"
                                 role="Local Resident • Raeford"
-                                service="Cut + Beard Sculpt"
+                                service="Haircut and Beard"
                                 photo="https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=200&auto=format&fit=crop"
                                 review="James is easily the most consistent barber in the area. His fade blends are seamless, and booking via Setmore means I never waste time sitting in a waiting queue."
                             />
@@ -258,7 +239,7 @@
                             <x-testimonial-card
                                 name="David Chen"
                                 role="Regular Client • 2+ Years"
-                                service="The Royal Treatment"
+                                service="Executive Cut & Towel Therapy"
                                 photo="https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?q=80&w=200&auto=format&fit=crop"
                                 review="The hot-towel straight razor shave is hands-down the best experience. The shop is clean, sterile, and James takes time to get the hairline exact every single visit."
                             />
@@ -268,7 +249,7 @@
                             <x-testimonial-card
                                 name="Terrence Brooks"
                                 role="Military Veteran"
-                                service="Signature Precision Cut"
+                                service="Modern/Classic Haircut"
                                 photo="https://images.unsplash.com/photo-1519085360753-af0119f7cbe7?q=80&w=200&auto=format&fit=crop"
                                 review="Precision taper, crisp edge-up, and top-tier professionalism. You walk out with complete confidence. Highly recommend booking a few days ahead!"
                             />
