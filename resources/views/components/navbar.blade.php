@@ -11,7 +11,7 @@
         <div class="flex items-center justify-between">
             <!-- Brand Logo & Name -->
             <a href="#home" class="flex items-center gap-3 group">
-                <div class="relative w-10 h-10 rounded-xl overflow-hidden border border-white/10 bg-white/5 p-1 transition-transform duration-300 group-hover:scale-105">
+                <div class="relative w-12 h-12 aspect-square rounded-full overflow-hidden border border-white/10 bg-white/5 p-1 transition-transform duration-300 group-hover:scale-105">
                     <img 
                         src="{{ asset($logoSrc) }}" 
                         alt="James The Barber Logo" 

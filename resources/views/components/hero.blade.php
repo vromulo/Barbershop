@@ -1,6 +1,6 @@
 @props([
     'bookingUrl' => 'https://jamesdbarber.setmore.com/?utm_id=97758_v0_s00_e0_tv0',
-    'badgeText' => 'Master Barbering • Raeford, NC',
+    'badgeText' => 'Master Barbering • Laguna, PH',
     'titleLine1' => 'Precision Cuts.',
     'titleLine2' => 'Timeless Craft.',
     'description' => 'Elevate your daily presence with bespoke grooming. From razor-sharp fades and crisp beard sculpts to traditional hot-towel straight razor shaves, James delivers mastery in every detail.',
